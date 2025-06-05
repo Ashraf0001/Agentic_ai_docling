@@ -107,9 +107,3 @@ Imagine you're building a system to answer questions about technical documents. 
 - Ensures each chunk is meaningful and self-contained
 
 This means when your RAG system retrieves chunks, they'll have the proper context and structure, leading to more accurate and coherent responses from your language model.
-
-## Documentation
-
-For full documentation, visit [documentation site](https://ds4sd.github.io/docling/).
-
-For example notebooks and more detailed guides, check out [GitHub repository](https://github.com/DS4SD/docling).
